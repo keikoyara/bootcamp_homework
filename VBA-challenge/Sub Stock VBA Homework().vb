@@ -1,4 +1,4 @@
-Sub Stock VBA Homework()
+Sub Stock_VBA_Homework()
 
 ' loop through all sheets
 Dim WS As Worksheet
